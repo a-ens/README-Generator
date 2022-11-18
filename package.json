@@ -1,0 +1,23 @@
+{
+  "name": "readme-package",
+  "version": "1.0.0",
+  "description": "Uses node js to provide a command-line application allowing the user to input information with which to format a README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-ens/README-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-ens/README-Generator/issues"
+  },
+  "homepage": "https://github.com/a-ens/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "node": "^18.7.0"
+  }
+}
