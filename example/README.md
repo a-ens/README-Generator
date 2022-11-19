@@ -1,10 +1,8 @@
 # Project Title 
-  # Project Title
-  2
-  undefined
+  Example Title
 
   # Description
-  2
+  Example Description
 
   # Table of Contents 
   * [Installation](#-Installation)
@@ -15,21 +13,21 @@
   * [Questions](#-Contact-Information)
       
   # Installation
-  2
+  Example Installation
 
   # Usage
-  2
+  Example USe
 
   # License 
-  [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Contributing 
-  2
+  No conributions needed.
 
   # Tests
-  2
+  None.
 
   # Contact Information 
-  * GitHub Username: 2
-  * Contact Email: 2@2.com
+  * GitHub Username: example
+  * Contact Email: example@example.com
   
